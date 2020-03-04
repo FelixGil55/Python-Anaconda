@@ -1,8 +1,8 @@
 # Python-Anaconda
 
 ### *Índice*
-- [¿Qué es Anaconda?](#¿qué-es-anaconda?)
-- [Cómo descargar Anaconda](#cómo-descargar-anaconda)
+- [¿Qué es Anaconda?](#qué-es-anaconda)
+- [Descargar Anaconda](#cómo-descargar-anaconda)
 - [Instalar Anaconda](#instalar-anaconda)
 
 ## *¿Qué es Anaconda?*                            
