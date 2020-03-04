@@ -2,7 +2,8 @@
 
 ### *Índice*
 - [¿Qué es Anaconda?](#¿qué-es-anaconda?)
-- [Descargar Anaconda](#descargar-anaconda)
+- [Cómo descargar Anaconda](#cómo-descargar-anaconda)
+- [Instalar Anaconda](#instalar-anaconda)
 
 ## *¿Qué es Anaconda?*                            
 *[Volver al Índice](#índice).*
@@ -12,11 +13,28 @@ Anaconda Distribution se agrupa en 4 sectores o soluciones tecnológicas, Anacon
 
 Anaconda Distribution es una herramienta que nos brinda una gran cantidad de funcionalidades que permitirán que desarrollemos aplicaciones de una manera más eficiente, rápida y sencilla.
 
-## *Descargar Anaconda*
+## *Cómo descargar Anaconda*
 *[Volver al Índice](#índice).*
 
+Esta guía solo presenta como instalar Anaconda en el sistema operativo Windows. 
 Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Anaconda, para ello solo debe dar click en el siguiente enlace: (https://www.anaconda.com)
 Se abrira una nueva ventana como la siguiente:
 
+AAaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Una vez dentro iremos a la opción Download (descargas):
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Aquí elegimos nuestra plataforma: Windows, Mac o Linux (en este caso se seleccionara Windows), para ello solo baje un poco en la ventana y asegurese que ha elegido la opción correcta (Windows), despues en Python 3.7 version de click en Download. 
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Con esto comenzara la descarga y obtendra un archivo con el nombre similar a llllllllllllllllllll
+
+## *Instalar Anaconda*
+*[Instalar Anaconda](#índice).*
+
+Para este paso instalaremos Anaconda en nuestro sistema. Primero 
 
 
