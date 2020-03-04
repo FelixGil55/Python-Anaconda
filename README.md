@@ -35,6 +35,43 @@ Con esto comenzará la descarga y obtendrá el archivo requerido.
 ## *Instalar Anaconda*
 *[Volver al Índice](#índice).*
 
-Para este paso instalaremos Anaconda en nuestro sistema. Primero 
+Para este paso instalaremos Anaconda en nuestro sistema. Búsque el archivo descargado y de clic derecho, en la ventana que se abre de clic en la opción "Ejecutar como administrador".
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Despues se mostrará una ventana y damos clic en aceptar:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Si ha salido todo bien, ahora se mostrará una ventana en la cual solo debe dar clic en "Next"
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Aceptamos los términos dando clic en "I Agree"
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+En la siguiente ventana seleccionamos la primera opción "Just Me (recommended)" y despues en "Next"
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Ahora seleccionamos el destino en el cual se instalara Anaconda, se recomienda dejarlo tal y como aparece así que solo de clic en "Next"
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Elija si desea registrar Anaconda como su Python predeterminado y de clic en "Install"
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Despues de dar clic en "Install" empezara a cargar una barra, espere a que termine
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+
+
+
 
 
