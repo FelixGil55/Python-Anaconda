@@ -20,20 +20,20 @@ Esta guía solo presenta como instalar Anaconda en el sistema operativo Windows.
 Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Anaconda, para ello solo debe dar click en el siguiente enlace: (https://www.anaconda.com)
 Se abrira una nueva ventana como la siguiente:
 
-AAaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/1Home%20de%20Anaconda.png)
 
 Una vez dentro iremos a la opción Download (descargas):
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/2Home%20de%20Anaconda%20download.png)
 
 Aquí elegimos nuestra plataforma: Windows, Mac o Linux (en este caso se seleccionara Windows), para ello solo baje un poco en la ventana y asegurese que ha elegido la opción correcta (Windows), despues en Python 3.7 version de click en Download. 
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/3for%20windows.png)
 
 Con esto comenzara la descarga y obtendra un archivo con el nombre similar a llllllllllllllllllll
 
 ## *Instalar Anaconda*
-*[Instalar Anaconda](#índice).*
+*[Volver al Índice](#índice).*
 
 Para este paso instalaremos Anaconda en nuestro sistema. Primero 
 
