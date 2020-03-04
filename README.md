@@ -2,7 +2,7 @@
 
 ### *Índice*
 - [¿Qué es Anaconda?](#¿qué-es-anaconda?)
--[Descargar Anaconda](#descargar-anaconda)
+- [Descargar Anaconda](#descargar-anaconda)
 
 ## *¿Qué es Anaconda?*                            
 *[Volver al Índice](#índice).*
