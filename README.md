@@ -61,14 +61,23 @@ Ahora seleccionamos el destino en el cual se instalara Anaconda, se recomienda d
 
 Elija si desea registrar Anaconda como su Python predeterminado y de clic en "Install"
 
-![Anaconda image](
-https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10register.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10register.png)
 
 Despues de dar clic en "Install" empezara a cargar una barra, espere a que termine
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/11install.png)
 
+Ya que ha terminado de cargar lo necesario solo damos clic en "Next"
 
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/12fin.png)
+
+Una vez más damos clic en "Next"
+
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/13next.png)
+
+Si desea leer más sobre Anaconda Cloud y cómo comenzar a usar Anaconda, marque las casillas “Aprenda más sobre Anaconda Cloud” y “Aprenda cómo comenzar a usar Anaconda” y haz clic en el botón "Finish", si no le interesa desmarque las casillas y solo de clic en "Finish"
+
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/14finish.png)
 
 
 
