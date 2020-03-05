@@ -35,11 +35,11 @@ Con esto comenzará la descarga y obtendrá el archivo requerido.
 ## *Instalar Anaconda*
 *[Volver al Índice](#índice).*
 
-Para este paso instalaremos Anaconda en nuestro sistema. Búsque el archivo descargado y de clic derecho, en la ventana que se abre de clic en la opción "Ejecutar como administrador".
+Para este paso instalaremos Anaconda en nuestro sistema. Busque el archivo descargado y de clic derecho, después de clic en la opción "Ejecutar como administrador".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/4Ejecutar.png)
 
-Despues se mostrará una ventana y damos clic en aceptar:
+Después se mostrará una ventana y damos clic en aceptar:
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/5cambios.png)
 
@@ -51,19 +51,19 @@ Aceptamos los términos dando clic en "I Agree"
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/7Agree.png)
 
-En la siguiente ventana seleccionamos la primera opción "Just Me (recommended)" y despues en "Next"
+En la siguiente ventana seleccionamos la primera opción "Just Me (recommended)" y después en "Next"
 
-![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/8Me.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/8M.png)
 
-Ahora seleccionamos el destino en el cual se instalara Anaconda, se recomienda dejarlo tal y como aparece así que solo de clic en "Next"
+Ahora seleccionamos el destino en el cual se instalará Anaconda, se recomienda dejarlo tal y como aparece así que solo de clic en "Next"
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/9choose.png)
 
 Elija si desea registrar Anaconda como su Python predeterminado y de clic en "Install"
 
-![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10register.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10inst.png)
 
-Despues de dar clic en "Install" empezara a cargar una barra, espere a que termine
+Después de dar clic en "Install" empezara a cargar una barra, espere a que termine
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/11install.png)
 
