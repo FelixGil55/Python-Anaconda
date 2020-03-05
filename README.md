@@ -85,11 +85,11 @@ Si desea leer más sobre Anaconda Cloud y cómo comenzar a usar Anaconda, marque
 
  Puede usar conda para verificar la instalación usando Anaconda Prompt en Windows, para ello busque en sus aplicaciones nuevas "Anaconda Prompt" y dele clic.
  
- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/15selc.png)
  
- Después de abrir Anaconda Prompt ingrese el comando python y presione Enter. Este comando ejecuta el shell de Python. Si Anaconda está instalada y funcionando, la información de versión que muestra cuando se inicia incluirá "Anaconda". Para salir del shell de Python, ingrese el comando quit().
+ Después de abrir Anaconda Prompt ingrese el comando *python* y presione Enter. Este comando ejecuta el shell de Python. Si Anaconda está instalada y funcionando, la información de versión que muestra cuando se inicia incluirá "Anaconda". Para salir del shell de Python, ingrese el comando *quit()*.
  
- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/16python.png)
  
  Ahora que tiene instalado Python puede comenzar a crear nuevos proyectos. 
  
