@@ -60,9 +60,9 @@ Ahora seleccionamos el destino en el cual se instalará Anaconda, puede dejarlo 
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/9choose.png)
 
-A continuación elija ambas casillas y de clic en "Install".
+A continuación elija la casilla de abajo y de clic en "Install".
 
-![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10inst.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10in.png)
 
 Después de dar clic en "Install" empezara a cargar una barra, espere a que termine.
 
