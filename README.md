@@ -18,17 +18,17 @@ Anaconda Distribution es una herramienta que nos brinda una gran cantidad de fun
  
 Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Anaconda, para ello solo debe dar clic en el siguiente enlace: (https://www.anaconda.com) y se abrirá una nueva ventana como la siguiente:
 
-![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/1Home%20de%20Anaconda.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/1Home%20de%20Anaconda.png)
 
 
 Una vez dentro iremos a la opción Download (descargas):
 
 
-![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/2Home%20de%20Anaconda%20download.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/2Home%20de%20Anaconda%20download.png)
 
 Aquí elegimos nuestra plataforma: Windows, Mac o Linux (en este caso se seleccionará Windows), para ello solo baje un poco en la ventana y asegúrese que ha elegido la opción correcta (Windows), después en "Python 3.7 version" de clic en "Download", seleccionando la versión que más le convenga (64 Bit o 32 Bit).
 
-![LabVIEW image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/3for%20windows.png)
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/3for%20windows.png)
 
 Con esto comenzará la descarga y obtendrá el archivo requerido. 
 
@@ -37,35 +37,36 @@ Con esto comenzará la descarga y obtendrá el archivo requerido.
 
 Para este paso instalaremos Anaconda en nuestro sistema. Búsque el archivo descargado y de clic derecho, en la ventana que se abre de clic en la opción "Ejecutar como administrador".
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/4Ejecutar.png)
 
 Despues se mostrará una ventana y damos clic en aceptar:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/5cambios.png)
 
 Si ha salido todo bien, ahora se mostrará una ventana en la cual solo debe dar clic en "Next"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/6welcome.png)
 
 Aceptamos los términos dando clic en "I Agree"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/7Agree.png)
 
 En la siguiente ventana seleccionamos la primera opción "Just Me (recommended)" y despues en "Next"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/8Me.png)
 
 Ahora seleccionamos el destino en el cual se instalara Anaconda, se recomienda dejarlo tal y como aparece así que solo de clic en "Next"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/9choose.png)
 
 Elija si desea registrar Anaconda como su Python predeterminado y de clic en "Install"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](
+https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10register.png)
 
 Despues de dar clic en "Install" empezara a cargar una barra, espere a que termine
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/11install.png)
 
 
 
