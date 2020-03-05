@@ -4,6 +4,7 @@
 - [¿Qué es Anaconda?](#qué-es-anaconda)
 - [Descargar Anaconda](#descargar-anaconda)
 - [Instalar Anaconda](#instalar-anaconda)
+- [Verifique su instalación](#verifique-su-instalación)
 
 ## *¿Qué es Anaconda?*                            
 *[Volver al Índice](#índice).*
@@ -43,45 +44,58 @@ Después se mostrará una ventana y damos clic en aceptar:
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/5cambios.png)
 
-Si ha salido todo bien, ahora se mostrará una ventana en la cual solo debe dar clic en "Next"
+Si ha salido todo bien, ahora se mostrará una ventana en la cual solo debe dar clic en "Next".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/6welcome.png)
 
-Aceptamos los términos dando clic en "I Agree"
+Aceptamos los términos dando clic en "I Agree".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/7Agree.png)
 
-En la siguiente ventana seleccionamos la primera opción "Just Me (recommended)" y después en "Next"
+En la siguiente ventana puede elegir la opción que prefiera, en mi caso la segunda opción es la elegida, y después clic en "Next".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/8M.png)
 
-Ahora seleccionamos el destino en el cual se instalará Anaconda, se recomienda dejarlo tal y como aparece así que solo de clic en "Next"
+Ahora seleccionamos el destino en el cual se instalará Anaconda, puede dejarlo tal y como aparece así que solo de clic en "Next" o bien puede elegir la dirección que guste.
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/9choose.png)
 
-Elija si desea registrar Anaconda como su Python predeterminado y de clic en "Install"
+A continuación elija ambas casillas y de clic en "Install".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/10inst.png)
 
-Después de dar clic en "Install" empezara a cargar una barra, espere a que termine
+Después de dar clic en "Install" empezara a cargar una barra, espere a que termine.
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/11install.png)
 
-Ya que ha terminado de cargar lo necesario solo damos clic en "Next"
+Ya que ha terminado de cargar lo necesario solo damos clic en "Next".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/12fin.png)
 
-Una vez más damos clic en "Next"
+Una vez más damos clic en "Next".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/13next.png)
 
-Si desea leer más sobre Anaconda Cloud y cómo comenzar a usar Anaconda, marque las casillas “Aprenda más sobre Anaconda Cloud” y “Aprenda cómo comenzar a usar Anaconda” y haz clic en el botón "Finish", si no le interesa desmarque las casillas y solo de clic en "Finish"
+Si desea leer más sobre Anaconda Cloud y cómo comenzar a usar Anaconda, marque las casillas “Aprenda más sobre Anaconda Cloud” y “Aprenda cómo comenzar a usar Anaconda” y haz clic en el botón "Finish", si no le interesa desmarque las casillas y solo de clic en "Finish".
 
 ![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/14finish.png)
 
+## *Verifique su instalación*
+*[Volver al Índice](#índice).*
 
-
-
+ Puede usar conda para verificar la instalación usando Anaconda Prompt en Windows, para ello busque en sus aplicaciones nuevas "Anaconda Prompt" y dele clic.
+ 
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+ Después de abrir Anaconda Prompt ingrese el comando python y presione Enter. Este comando ejecuta el shell de Python. Si Anaconda está instalada y funcionando, la información de versión que muestra cuando se inicia incluirá "Anaconda". Para salir del shell de Python, ingrese el comando quit().
+ 
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ 
+ Ahora que tiene instalado Python puede comenzar a crear nuevos proyectos. 
+ 
+ 
+ 
+ 
 
 
 
